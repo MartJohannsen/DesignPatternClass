@@ -1,0 +1,11 @@
+package AdapterPackage;
+
+/**
+ * Created by Martin on 12-09-2018.
+ */
+public class Rectangle {
+    public void draw(int x, int y, int width, int height) {
+        System.out.println("Rectangle with coordinate left-down point (" + x + ";" + y + "), width: " + width
+                + ", height: " + height);
+    }
+}
