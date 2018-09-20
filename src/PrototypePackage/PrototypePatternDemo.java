@@ -8,10 +8,10 @@ public class PrototypePatternDemo {
         ShapeCache.loadCache();
 
         Shape clonedShape = ShapeCache.getShape("1");
-        System.out.println("AdapterPackage.Shape : " + clonedShape);
+        System.out.println("AdapterPackage.Shape : " + clonedShape.getType());
 
         Shape clonedShapeTwo = ShapeCache.getShape("1");
-        System.out.println("AdapterPackage.Shape : " + clonedShapeTwo);
+        System.out.println("AdapterPackage.Shape : " + clonedShapeTwo.getType());
 
         Shape clonedShape2 = ShapeCache.getShape("2");
         System.out.println("AdapterPackage.Shape : " + clonedShape2.getType());
