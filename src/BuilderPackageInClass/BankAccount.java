@@ -1,7 +1,5 @@
 package BuilderPackageInClass;
 
-import com.sun.xml.internal.bind.v2.model.core.ID;
-
 /**
  * Created by Martin on 20-09-2018.
  */

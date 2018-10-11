@@ -1,7 +1,5 @@
 package AbstractFactoryPackage;
 
-import PrototypePackage.Square;
-
 /**
  * Created by Martin on 18-09-2018.
  */

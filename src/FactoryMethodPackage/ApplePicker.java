@@ -1,7 +1,5 @@
 package FactoryMethodPackage;
 
-import javafx.application.Application;
-
 /**
  * Created by Martin on 18-09-2018.
  */
